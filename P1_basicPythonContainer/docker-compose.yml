@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  my_python_app:
+    build: .
+    image: fuse_testpython:v1.0
+    container_name: testPytContainer
+    volumes:
+      - ./:/app
