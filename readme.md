@@ -1,7 +1,7 @@
 # Containerizing Python App with Docker
 
 ## Overview
-This guide explains how to containerize Python applications using Docker, offering consistency, scalability, and portability.
+This guide explains how to containerize Python applications using Docker, offering consistency, scalability, and portability. See the pdf slide to get detailed info. 
 
 ## Key Points
 - **What is Docker?** Docker is like a shipping container for software, ensuring standardized packaging and deployment.
