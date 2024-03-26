@@ -16,5 +16,5 @@ This guide explains how to containerize Python applications using Docker, offeri
 ## Usage
 - Follow provided projects for specific use cases.
 - Save images locally or push to Docker Hub for sharing.
-- Purge containers and images for system maintenance.
+- Purge containers and images.
 
